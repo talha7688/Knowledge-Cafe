@@ -1,0 +1,43 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/WG5Kq5y/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "author_img": "https://i.ibb.co/sbfMK3q/side-view-business-man-writing-agenda.jpg",
+      "posted_date": "2023-10-05T09:30:00Z",
+      "reading_time": "10 mins",
+      "hashtag": ["technology", "blog", "artificialintelligence"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/WG5Kq5y/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "author_img": "https://i.ibb.co/sbfMK3q/side-view-business-man-writing-agenda.jpg",
+      "posted_date": "2023-10-05T11:15:00Z",
+      "reading_time": "8 mins",
+      "hashtag": ["travel", "adventure", "explore"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/WG5Kq5y/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "author_img": "https://i.ibb.co/sbfMK3q/side-view-business-man-writing-agenda.jpg",
+      "posted_date": "2023-10-05T14:45:00Z",
+      "reading_time": "12 mins",
+      "hashtag": ["health", "fitness", "nutrition"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/WG5Kq5y/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "author_img": "https://i.ibb.co/sbfMK3q/side-view-business-man-writing-agenda.jpg",
+      "posted_date": "2023-10-05T16:20:00Z",
+      "reading_time": "7 mins",
+      "hashtag": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/WG5Kq5y/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "author_img": "https://i.ibb.co/sbfMK3q/side-view-business-man-writing-agenda.jpg",
+      "posted_date": "2023-10-05T18:00:00Z",
+      "reading_time": "9 mins",
+      "hashtag": ["music", "entertainment", "celebrities"]
+    }
+  ]
+  
